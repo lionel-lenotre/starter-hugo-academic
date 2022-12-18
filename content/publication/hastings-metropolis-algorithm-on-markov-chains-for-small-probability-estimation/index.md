@@ -6,7 +6,7 @@ authors:
   - F. Bachoc
   - A. Bachouch and L. Lenôtre
 doi: "https://doi.org/10.1051/proc/201448013 "
-publication: ""
+publication: "ESAIM: ProcS, 48, 276--307"
 abstract: ""
 draft: false
 featured: false
@@ -14,5 +14,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2021-06-01T08:22:00.000Z
+date: 2015-03-09T07:00:00.000Z
 ---

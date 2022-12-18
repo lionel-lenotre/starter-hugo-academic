@@ -5,6 +5,7 @@ publication_types:
 authors:
   - F. Bachoc
   - A. Bachouch and L. Lenôtre
+doi: "https://doi.org/10.1051/proc/201448013 "
 publication: ""
 abstract: ""
 draft: false
@@ -13,5 +14,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-12-18T09:22:27.270Z
+date: 2021-06-01T08:22:00.000Z
 ---
